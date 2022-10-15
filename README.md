@@ -23,3 +23,11 @@ The labwork done while taking a relational database course.
     - FWGSHO
     - Aggregate functions
     - Group By
+### LAB 4
+    - Joins
+    - Inner Join
+    - Outer Joins
+    - Outer Left, Right and Full Joins
+    - Cross Join
+    - Retreving Data using Joins
+    - Getting similar results using SELECT and WHERE
