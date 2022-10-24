@@ -31,3 +31,8 @@ The labwork done while taking a relational database course.
     - Cross Join
     - Retreving Data using Joins
     - Getting similar results using SELECT and WHERE
+### LAB 6
+    - Sub quries
+    - Nested Subquries
+    - Temporary Tables
+    - Applying Subquries on temporary tables
