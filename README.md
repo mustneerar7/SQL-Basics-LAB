@@ -37,7 +37,7 @@ The labwork done while taking a relational database course.
     - Temporary Tables
     - Applying Subquries on temporary tables
 
-### LAB 8
+### LAB 9
     - Indexes
     - Views
     - Materialized Views
