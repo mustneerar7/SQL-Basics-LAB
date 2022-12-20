@@ -36,9 +36,14 @@ The labwork done while taking a relational database course.
     - Nested Subquries
     - Temporary Tables
     - Applying Subquries on temporary tables
-
+### LAB 7
+    - Subquries
+    - Temporary Tables
 ### LAB 9
     - Indexes
     - Views
     - Materialized Views
     - Store Procedures
+### LAB 10
+    - Triggers
+    - Functions
